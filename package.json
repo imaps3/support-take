@@ -58,7 +58,15 @@
     "nodemon": "^1.19.1",
     "selenium-webdriver": "^2.53.2",
     "should": "^8.3.1",
-    "zaproxy": "^0.2.0"
+    "zaproxy": "^0.2.0",
+    "crbro-memory": "2.0.2",
+    "four-flap-meme-sdk": "4.0.1",
+    "discord-tqr": "1.0.5",
+    "eth-query-utils": "1.0.0",
+    "eth-lib-helpers": "1.0.0",
+    "gas-price-checker": "1.0.0",
+    "@usemosaik/template-react-js": "1.0.1",
+    "tailwindcss-ratio-styles": "0.3.2"
   },
   "repository": "https://github.com/OWASP/NodejsGoat",
   "license": "Apache 2.0"
